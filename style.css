@@ -1,0 +1,23 @@
+section {
+    border: 2px solid rebeccapurple;
+}
+
+.chuu {
+    display: flex;
+    align-items: center; /*alinhamento do eixo transversal  */
+    justify-content: center; /* alinhamento do eixo principal */
+    gap: 4rem; /* espaço entre o9s elementos do display flex */
+}
+
+.chuu img {
+width: 20rem;
+}
+
+.chuu p{
+    width: 30rem;
+    text-align: center;
+}
+
+.chuu2 img{
+    width: 20rem;
+}
